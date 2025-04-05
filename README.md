@@ -1,4 +1,4 @@
-# Tomasulo-Algorithm-Simulation
+![image](https://github.com/user-attachments/assets/3b890f3d-c045-4b72-bf56-5992a3fba022)# Tomasulo-Algorithm-Simulation
 A Python simulator for Tomasulo’s algorithm with dynamic scheduling, register renaming, and out-of-order execution. Supports integer and floating-point operations, realistic latencies, and detailed cycle-by-cycle tracking of CPU state.
 
 ## Features
@@ -68,6 +68,7 @@ A Python simulator for Tomasulo’s algorithm with dynamic scheduling, register 
    git clone https://github.com/Swathi1218/tomasulo-simulator.git
    cd tomasulo-simulator
 2. Run the simulation:
-  ```bash
-  python tomasulo_simulator.py
-#View output in terminal or from the generated output file.
+   ```bash
+   python tomasulo_simulator.py
+3.  View output from the generated output file.
+  
