@@ -67,7 +67,7 @@ A Python simulator for Tomasulo’s algorithm with dynamic scheduling, register 
    ```bash
    git clone https://github.com/Swathi1218/tomasulo-simulator.git
    cd tomasulo-simulator
-Run the simulation:
-
-python tomasulo_simulator.py
-View output in terminal or from the generated output file.
+2. Run the simulation:
+  ```bash
+  python tomasulo_simulator.py
+#View output in terminal or from the generated output file.
