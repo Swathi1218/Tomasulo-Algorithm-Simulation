@@ -2,12 +2,12 @@ A Python simulator for Tomasulo’s algorithm with dynamic scheduling, register 
 
 ## Features
 
-- ✅ Out-of-order execution
-- ✅ Register renaming
-- ✅ Load/store buffers
-- ✅ Integer and floating-point operation support
-- ✅ Configurable execution latencies
-- ✅ Detailed cycle-by-cycle simulation output
+- Out-of-order execution
+- Register renaming
+- Load/store buffers
+- Integer and floating-point operation support
+- Configurable execution latencies
+- Detailed cycle-by-cycle simulation output
 
 ## Instruction Support
 
